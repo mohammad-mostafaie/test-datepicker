@@ -1,8 +1,0 @@
-درست کردن یک پوشه و ریختن فایل ها در آن
-cd desktop/نام پوشه
-git init
-git add .
-git remote add origin ادرس مخزن گیت هاب
-git branch -M master
-git remote add origin "آدرس مخزن گیت هاب را در اینجا وارد میکنیم
-git push -u origin master
